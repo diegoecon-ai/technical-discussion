@@ -16,3 +16,6 @@ This is a good example of [my code](https://gist.github.com/diegoecon-ai/12c8357
 ### Colab example
 
 This is the [*notebook*](https://github.com/diegoecon-ai/technical-discussion/blob/main/technical_docs.ipynb)
+
+### Image
+![image](https://user-images.githubusercontent.com/55910960/157316456-1dedc93a-847f-4065-9f51-04ad5812fe46.png)
