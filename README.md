@@ -10,4 +10,4 @@ This is a demo repo for sharing ideas around communication
 Technical discussion format
 
 ### Gist example
-This is a good example of [my code] (https://gist.github.com/diegoecon-ai/12c835700bf82e4e555c320157b20b5f)
+This is a good example of [my code](https://gist.github.com/diegoecon-ai/12c835700bf82e4e555c320157b20b5f)
